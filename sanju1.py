@@ -1,8 +1,7 @@
 This is my first file
 sanju1
-teja
+teju
 sanju
-tejasaju
+tejasanju
 mummysanju
 pottidanna
-
